@@ -1,1 +1,13 @@
-# <img width="500" alt="Wordmark" src="https://github.com/user-attachments/assets/0327b7f7-ef8d-4b88-8de9-e853a7049564" />
+<img alt="RN_LOGO" src="https://github.com/user-attachments/assets/7029dbb5-e289-456b-b601-b2ab7e345140" />
+
+# DKSH SW연구개발동아리
+학생들이 팀을 꾸려 원하는 프로젝트를 개발하는, **SW 프로젝트 동아리**
+
+- 🧑‍💻 팀 프로젝트
+  - 마음 맞는 친구들과 팀을 결성해 앱, 웹, 하드웨어 등 다양한 분야의 프로젝트를 자유롭게 진행해요.
+
+- 🏆 박람회 출품
+  - 진로직업박람회, 비즈쿨 페스티벌 등 다양한 외부 행사에 프로젝트를 출품해 실전 경험을 쌓을 수 있어요
+
+- 🚀 동아리 지원
+  - 프로젝트 기획부터 개발·발표까지 동아리가 멘토링과 리소스를 지원해드려요
